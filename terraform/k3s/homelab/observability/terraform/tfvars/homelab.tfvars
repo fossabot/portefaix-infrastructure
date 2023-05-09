@@ -26,6 +26,7 @@ buckets = [
   "portefaix-homelab-logs-chunks",
   "portefaix-homelab-logs-ruler",
   "portefaix-homelab-metrics-admin",
+  "portefaix-homelab-metrics-alert",
   "portefaix-homelab-metrics-ruler",
   "portefaix-homelab-metrics-tsdb",
   "portefaix-homelab-traces-chunks",
